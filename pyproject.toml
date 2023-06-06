@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cortez"
+version = "0.0.1"
+description = "MKDocs site. Sea of Cortez trip."
+authors = ["MJN <neumann.mj@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mkdocs-material = "^8.4.2"
+mkdocs-exclude = "^1.0.2"
+
+[tool.poetry.dev-dependencies]
+yamllint = "^1.27.1"
+pre-commit = "^2.20.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+

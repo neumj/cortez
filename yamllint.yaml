@@ -1,0 +1,12 @@
+extends: default
+
+ignore: |
+  mkdocs.yml
+  .venv
+
+rules:
+  line-length:
+    max: 100
+  document-start:
+    present: false
+

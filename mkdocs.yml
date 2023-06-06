@@ -1,0 +1,56 @@
+site_name: Sea of Cortez
+repo_name: neumj/cortez
+repo_url: https://github.com/neumj/cortez
+copyright: Copyright &copy; 2023 - Neumann/Popov
+    
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  logo: assets/pirate-50.png
+  favicon: assets/pirate-50.png
+  features:
+    - content.tabs.link
+    - navigation.footer
+    - search.highlight
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+
+extra:
+  generator: false
+
+nav:
+    - Home: index.md
+    - Entries by Tags: tags.md
