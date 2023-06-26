@@ -47,10 +47,24 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
+  - git-revision-date-localized:
+      type: datetime
+      timezone: America/New_York
 
 extra:
   generator: false
 
 nav:
     - Home: index.md
+    - La Paz: La_Paz_20230616.md
+    - La Paz: La_Paz_20230617.md
+    - Ensenada Grande: Ensenada_Grande_20230618.md
+    - Isla San Francisco: Isla_San_Francisco_20230619.md
+    - San Evaristo: San_Evaristo_20230620.md
+    - Caleta Partida: Caleta_Partida_20230621.md
+    - Ensenada Candelero: Ensenada_Candelero_20230622.md
+    - Caleta Lobos: Caleta_Lobos_20230623.md
+
+    - MJN:
+        - Ensenada Grande: MJN/Ensenada_Grande.md
     - Entries by Tags: tags.md

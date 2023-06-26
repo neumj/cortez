@@ -1,0 +1,44 @@
+---
+tags:
+    - Baja California Sur
+    - Isla Partida
+---
+
+# Ensenada Grande: 18 June 2023
+
+## Route
+
+| Location | Latitude | Longitude |
+|--|--|--|
+| La Paz |--|--|
+| Estero Balandra |--|--|
+| Ensenada Grande |--|--|
+
+## Journal
+
+Today we set sail on our charter boat _Grieg_ at 10:30 from La Paz into the Sea of Cortez. We motored out of La Paz to Estero Balandra via Caleta Lobos, anchoring in a sandy bottom in Estero Balandra for some swimming, snorkeling, and adventuring in the dinghy. After several hours in Estero Bay, and a brief motor-sail, we raised sail and struck a course for Ensenada Grande on Isla Partida, arriving and setting anchor at 16:35.    
+
+Good snorkeling in Estero Balandra with a variety of sealife, most striking a small school of cow-head rays, and an underwater swim through that Michael and Tobias found and navigated that had 300 to 700 fish. Insane as we swam through, the fish fleeing in panic thinking we were large predators.
+
+We lose connectivity 10 nautical miles outside of La Paz and all screens are dead for the remainder of the trip. New neural pathways begin development.
+
+Excellent snorkeling in Ensenda Grande where Amy, Magda, Tobias, Aleks, and Asher explored the small fisherman's cove on the south side of the anchorage. Notably saw: large school of needle fish, coral, puffer fish, rays. Sea turtles, frigate birds, and pelicans throughout the bay.
+
+After battling, and finally accepting, waves of bees, sunset found us piled into the dinghy floating near the beach amid a massive bait-ball of tens-of-thousands of small fish. Scores of Brown Pelicans skimmed the water, floating on the breeze before driving into the sky, reversing and dive-bomning into the bait for their eveing meal. We floated silently amid the swiring bait ball, so close to the Pelican stikes that we could hear the whisle of the wind through their feathers as the struck water and their prey. 
+
+Nightime we spent a lifetime try to get the grill hot before enjoy a delicious meal of hamburgers. As the breeze built through the evening, stoking the grill, we suddelny needed to douse it becaue of flying embers. Filling a wine bottle full of seawater to cool the grill we discovered something magical, sparkling, and enchanting: bioluminesence. Swirling our hands through the water, the bioluminescet plankton illuminated leaving a trail of glowing sea-foam like embers.
+
+As the boys went to bed, the wind continued to build and we garnered our first experience with The Coromuel:
+
+- _Coromuel_: Storng winds that begin in the evening and blow through the night, created by cool air from the Pacific Ocean flowing across the low land of the Baja Peninsula towards the warmer waters of the Sea of Cortez. South to Southwesterly.
+
+ Zarko and Michael spend the night on, rotating, 2.5 hour anchor watches.
+
+**_Asher_**: I had an Amazing day seeing lots of fish. Amazingly clear water, amazing scenery, bright fish that I really enjoyed.
+
+**_Aleks_**: I had a really fun day, excited to see rays and puffer fishes. Surprised by the nmuber of rays.
+
+**_Tobias_**: Super cool and fun day, clear water, lots of coral, surprising large number of puffer fish.
+
+<!--- Below is navigation to home --->
+ [Return to Home](index.md)

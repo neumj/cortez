@@ -6,3 +6,4 @@ dependencies:
   - python>3.7
   - mkdocs-material
   - mkdocs-material-extensions
+  - mkdocs-git-revision-date-localized-plugin
