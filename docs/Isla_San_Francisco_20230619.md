@@ -10,11 +10,11 @@ tags:
 
 | Location | Latitude | Longitude |
 |--|--|--|
-| Ensenada Grande |--|--|
-| Caleta El Embudo |--|--|
-| Los Islotes |--|--|
-| Isla San Francisco (North) |--|--|
-| Isla San Francisco (East) |--|--|
+| Ensenada Grande | 24.560 N | 110.396 W |
+| Caleta El Embudo | 24.581 N | 110.398 W |
+| Los Islotes | 24.598 N | 110.401 W |
+| Isla San Francisco (North) | 24.842 N | 110.575 W|
+| Isla San Francisco (East) | 24.829 N | 110.566 W |
 
 ## Journal
 

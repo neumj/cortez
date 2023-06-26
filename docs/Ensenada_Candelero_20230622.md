@@ -9,8 +9,8 @@ tags:
 
 | Location | Latitude | Longitude |
 |--|--|--|
-| Caleta Partido |--|--|
-| Ensenada Candelero |--|--|
+| Caleta Partido | 24.533 N | 110.380 W |
+| Ensenada Candelero | 24.505 N | 110.387 W |
 
 ## Journal
 

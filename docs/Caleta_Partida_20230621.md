@@ -11,8 +11,8 @@ tags:
 
 | Location | Latitude | Longitude |
 |--|--|--|
-| San Evaristo |--|--|
-| Caleta Partido |--|--|
+| San Evaristo | 24.913 N | 110.702 W |
+| Caleta Partido | 24.533 N | 110.380 W |
 
 ## Journal
 

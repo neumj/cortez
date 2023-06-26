@@ -10,9 +10,9 @@ tags:
 
 | Location | Latitude | Longitude |
 |--|--|--|
-| Ensenada Candelero |--|--|
-| Estero Balandra |--|--|
-| Caleta Lobos |--|--|
+| Ensenada Candelero | 24.505 N | 110.387 W |
+| Estero Balandra | 24.326 N | 110.332 W |
+| Caleta Lobos | 24.301 N | 110.336 W |
 
 ## Journal
 

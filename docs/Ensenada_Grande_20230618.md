@@ -10,9 +10,9 @@ tags:
 
 | Location | Latitude | Longitude |
 |--|--|--|
-| La Paz |--|--|
-| Estero Balandra |--|--|
-| Ensenada Grande |--|--|
+| La Paz | 24.214 N | 110.299 W |
+| Estero Balandra | 24.316 N | 110.335 W |
+| Ensenada Grande | 24.560 N | 110.396 W |
 
 ## Journal
 

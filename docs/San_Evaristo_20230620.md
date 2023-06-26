@@ -11,9 +11,9 @@ tags:
 
 | Location | Latitude | Longitude |
 |--|--|--|
-| Isla San Francisco (East) |--|--|
-| Isla San Jose, La Amortajada |--|--|
-| San Evaristo |--|--|
+| Isla San Francisco (East) | 24.829 N | 110.566 W |
+| Isla San Jose, La Amortajada | 24.868 N | 110.570 W |
+| San Evaristo | 24.913 N | 110.702 W|
 
 ## Journal
 
