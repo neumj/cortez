@@ -26,7 +26,7 @@ In the late afternoon,
 We surface to a burning sunset and quickly return to boat
 float together watching the sun SOMTHING the Gigante Sirria of Baja Californina Sur
 
-Tobias opts to sleep under the expanse of the Milky Way wrapped in the main-sail lazy jacks, masthead light tracing a pendulum arc across constellations and galaxies. We are all jealous.
+Tobias opts to sleep under the expanse of the Milky Way wrapped in the main-sail lazy-jacks, masthead light tracing a pendulum arc across constellations and galaxies. Wise decision.
 
 ## Scuba Diving
 
