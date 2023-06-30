@@ -16,17 +16,17 @@ tags:
 
 In the morning, Michael and Tobias are picked up in a 24-foot panga by a local scuba diving guide and head to a local wreck and island for 2 scuba dives.
 
-In the late afternoon, 
+Amy, Magda, Zarko, Asher, Aleks and Maks prepare to explore the local reef, jetting out from a cactus-laden rock island which is the inspiration for the name of the cove, El Candelero. The dinghy delivers the crew to a small mooring where we tie up and swim to the tiny beach, obviously interrupting the gulls taking up residence there. We sborkel around the penninsula-like reef, another aquarium-like experience. Asher is working hard on his free diving abilities and is proud to present Mum with a sunset-themed shell.
 
-- hike
-- goats
+After gathering supplies back on Grieg, the same crew heads to the beach for some badminton and beach play. Asher and Maks create a little sand fortress for fiddler crabs, while the others take turns in and out of the water at at leisurely pace. Amy spies a familiar boat heading into the cove, one that provided some heated discussion the night before, as the group there, flying an American flag, provided more nighttime light pollution than any other vessel seen. But today, the boat seemed to be heading much too fast right toward the projecting reef. Sure enough, there's and abrupt stop, reveresal, and quick getaway, their proverbial tail between their legs. This provides further topic of evaluation and discussion, some amusement and also disgust. Then, Amy and Magda enjoy a shallow jacuzzi spa in the sun-warmed lagoon waters before departing back to rejoin Michael and Tobias on Grieg. 
 
-- evening snorkel around El Candelero, green eels, many spotted box fish
+In the late afternoon, the Neumann four return to the other side of the beach to explore the lagoon, largely evaporated from earlier in the day, when Michael exclaims the umexpected: "I hear a goat." Sure enough, we stop to listen to the distant calls and make our way toward the sound. Eventually we spy about 12 goats, including young ones, making their way away from us and up the steep, harsh, terracotta hued rock, as only goats can. A few stay low and begin to drink, which makes us wonder if there is a fresh water spring. But a quick taste test confirms that the water is salty, and we wonder how these creatures evolve to live here.
 
-We surface to a burning sunset and quickly return to boat
-float together watching the sun SOMTHING the Gigante Sirria of Baja Californina Sur
+Michael takes the boys for and evening snorkel around El Candelero to find green eels, many spotted box fish. The description seems varied from the morning cast of marine characters. We surface to a burning sunset and quickly return to boat to gather Amy and Magda for the spectacle. We float together, watching the sun SOMTHING the Gigante Sirria of Baja Californina Sur
 
-Tobias opts to sleep under the expanse of the Milky Way wrapped in the main-sail lazy-jacks, masthead light tracing a pendulum arc across constellations and galaxies. Wise decision.
+The afternoon slips into the evening with snacks and, of course, rounds of Sleeping Queens, which has become the game of choice for the trip.
+
+Tobias opts to sleep under the expanse of the Milky Way wrapped in the main-sail lazy-jacks, masthead light tracing a pendulum arc across constellations and galaxies. Wise decision. During the night, the small beach of the reef, enjoyed that morning, is swallowed by the tide. Amy watches the sunrise beneath Tobias' nighttime roost.
 
 ## Scuba Diving
 
