@@ -26,5 +26,10 @@ We ride out, past the tiny fish camp. This place is just everything different, q
 
 We board _Grieg_ and a dance party ensues to _I Ain't Worried_ by One Republic, the theme of our holiday. Glorious sunset on our last night aboard. 
 
+<figure markdown>
+  ![Cockpit](assets/sea-of-cortez-mex-202306-176.JPG){ align=left }
+  ![Boat](assets/sea-of-cortez-mex-202306-191.JPG){ align=right }
+</figure>
+
 <!--- Below is navigation to home --->
  [Return to Home](index.md)

@@ -38,5 +38,10 @@ _Tail of the Whale: Tranquillo_
 
 Dove the western tail of Isla Ballena, a small island just south of Ensenada Candelero. Max depth 17.2 meters, bottom temperature 25 degrees. Landed in jumbled rocks, moving west along the sand-rock interface. Large school of Cortez Sea Chubs moving to deep water. Many nudibranchs, at least 4 types. Tobias observes a nudibranch, which is wrapped around a piece of seaweed, attack its own tail, extending its mouth onto itself. Giant Hawkfish. Green Eeels. First part of the dive progresses like a cool sub-tropical Pacific dive, jumbled rocks, sea stars, sea cucuumbers. As we ascend from 15 meters to 10 meters we pass through a sharp thermocline, schlerring, and the entire ecosystem transitions to a tropical environemnt, replete with colorful schools of fish and sand flats dotted by rocky outcrops. Stong current transitions the dive into a drift and we float, soar, along the sand flats observing the tropical aquarium.
 
+<figure markdown>
+  ![Play 1](assets/sea-of-cortez-mex-202306-156.JPG){ align=left }
+  ![Sunset](assets/sea-of-cortez-mex-202306-165.JPG){ align=right }
+</figure>
+
 <!--- Below is navigation to home --->
  [Return to Home](index.md)
