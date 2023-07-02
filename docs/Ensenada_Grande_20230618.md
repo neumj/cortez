@@ -41,8 +41,8 @@ As the boys go to bed, the wind continues to build and we garner our first exper
 **_Tobias_**: Super cool and fun day, clear water, lots of coral, surprising large number of puffer fish.
 
 <figure markdown>
-  ![Shopping 1](assets/sea-of-cortez-mex-202306-001.JPG){ align=left }
-  ![Shopping 2](assets/sea-of-cortez-mex-202306-071.JPG){ align=right }
+  ![Esenada Grande 1](assets/sea-of-cortez-mex-202306-081.JPG){ align=left }
+  ![Esenada Grande 1](assets/sea-of-cortez-mex-202306-052.JPG){ align=right }
 </figure>
 
 <!--- Below is navigation to home --->
