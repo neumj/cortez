@@ -42,7 +42,7 @@ As the boys go to bed, the wind continues to build and we garner our first exper
 
 <figure markdown>
   ![Esenada Grande 1](assets/sea-of-cortez-mex-202306-081.JPG){ align=left }
-  ![Esenada Grande 1](assets/sea-of-cortez-mex-202306-052.JPG){ align=right }
+  ![Esenada Grande 2](assets/sea-of-cortez-mex-202306-052.JPG){ align=right }
 </figure>
 
 <!--- Below is navigation to home --->

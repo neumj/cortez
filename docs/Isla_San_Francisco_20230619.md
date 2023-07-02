@@ -24,5 +24,10 @@ No wind means a motor-sail with hopes of a building breeze as we depart for Isla
 
 Given our experience the previous night with _The Coromuel_, we opt to anchor on the east side of Isla San Francisco for the night. Swimming and jumping off the bow ensues as Zarko wrangles the grill into submission and production of heat. Before sunset we survey the bay to scout for viable night snorkeling locations, which after dinner, yields a first-time night snorkel for Tobias, Amy, and Magda. Under the glow of the Milky-Way we see varied fish, many large puffer fish, large spotted box fish, bobbit worm, and 2 surly green eels, which simultaeoulsy leave us in awe and stike fear. Asher, Alex, Maks, and Zarko learn the differnce between fishing and catching, losing several large fish and breaking a rod before landing a Cortez Grunt. Anchorage is filled with bioluminescence; the sea miminincing the sky above with swilring constellations of light.    
 
+<figure markdown>
+  ![Isla San Francisco](assets/sea-of-cortez-mex-202306-049.JPG){ align=left }
+  ![ TGN Jumping](assets/sea-of-cortez-mex-202306-227.JPG){ align=right }
+</figure>
+
 <!--- Below is navigation to home --->
  [Return to Home](index.md)

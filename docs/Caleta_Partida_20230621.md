@@ -34,5 +34,10 @@ Winds continue unabated through the night, blasting through the cut, and we jerk
 
 Happy Summer Solstice.
 
+<figure markdown>
+  ![Isla San Francisco](assets/sea-of-cortez-mex-202306-022.JPG){ align=left }
+  ![ TGN Jumping](assets/sea-of-cortez-mex-202306-024.JPG){ align=right }
+</figure>
+
 <!--- Below is navigation to home --->
  [Return to Home](index.md)
