@@ -37,7 +37,7 @@ Mild panic ensues as the continuous running water pump, and gurgling sound of an
 
 **_20:17_**
 
-Our first moon-rise of the trip presents as a waxing yellow-orange crescent accompanied by Jupiter rising over the encircling, rocky, hills. It sets equally beautifully and, as the boat swings, comes back into view gracing us with a second moon-set. As darkness spreads, bioluminescence fills the bay.
+Our first moon-rise of the trip presents as a waxing yellow-orange crescent accompanied by Jupiter rising over the encircling, rocky, hills. It sets equally beautifully and, as the boat swings, comes back into view gracing us with a second moon-set. Another windy night at anchor, and our trust in the rode and anchor is beginning to build. As darkness spreads, bioluminescence fills the bay.
 
 <!--- Below is navigation to home --->
  [Return to Home](index.md)

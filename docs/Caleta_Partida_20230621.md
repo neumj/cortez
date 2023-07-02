@@ -30,7 +30,7 @@ In the early afternoon, winds are gusting to 25 knots and seas running out of th
 
 The shallows of Caleta Partida are replete with turtles, rays, bait fish, and sea birds. We spot an eagle ray and each family spots schools of rays and turtles as they take _Griegito Conchito_ through the cut between Isla Partida and Isla Espiritu Santo, which provides a corridor to the open Sea of Cortez. We take a few moments to explore the shallows and coarse white-sand beach that provides a butress between the islands. It is paradise in the warm water where we even dig up a few tiny clams for inspection.
 
-Winds continue unabated, blasting through the cut, and we jerkily swing on the anchor in 15 to 20 knots of wind through the night. Another night of light sleep as we listen for the anchor alarm. We enjoy Amy's bespoke Sangria and dine on the fresh fish from Augustino, pan fried, on a bed of pasta and salsa of artichokes, garlic, onions, and tomatoes. The boys enjoy a movie and consume the last of the ice cream we have packed in ice in the cool-box.
+Winds continue unabated through the night, blasting through the cut, and we jerkily swing on the anchor in 15 to 20 knots of wind, gusting to 25 knots. Another night of light sleep as we listen for the anchor alarm, we are now in full trust of the anchor and rode. We enjoy Amy's bespoke Sangria and dine on the fresh fish from Augustino, pan fried, on a bed of pasta and salsa of artichokes, garlic, onions, and tomatoes. The boys enjoy a movie and consume the last of the ice cream we have packed in ice in the cool-box.
 
 Happy Summer Solstice.
 
