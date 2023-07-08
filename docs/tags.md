@@ -7,4 +7,4 @@ hide:
 [TAGS]
 
 <!--- Below is navigation to home --->
- [Return to Revista](index.md)
+ [Return to Home](index.md)

@@ -50,7 +50,12 @@ plugins:
   - git-revision-date-localized:
       type: datetime
       timezone: America/New_York
-  - with-pdf
+  - with-pdf:
+      author: Neumann, Popov
+      cover: true
+      back_cover: false
+      cover_title: Our Log of The Sea of Cortez
+      cover_subtitle: June 2023
 
 extra:
   generator: false
