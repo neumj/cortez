@@ -50,6 +50,7 @@ plugins:
   - git-revision-date-localized:
       type: datetime
       timezone: America/New_York
+  - with-pdf
 
 extra:
   generator: false
